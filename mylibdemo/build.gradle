@@ -47,7 +47,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.pkraj1994'
                 group = 'mylibdemo'
-                version = version
+                version = '1.1'
             }
         }
     }
