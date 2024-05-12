@@ -1,4 +1,4 @@
-package com.cesu.itcc05.consumeportal;
+package com.tpcodl.mylibdemo;
 
 import java.nio.ByteBuffer;
 import java.security.SecureRandom;

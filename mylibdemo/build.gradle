@@ -24,8 +24,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_7
-        targetCompatibility JavaVersion.VERSION_1_7
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
 }
 
@@ -47,7 +47,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.pkraj1994'
                 group = 'mylibdemo'
-                version = '1.1'
+                version = '1.2.1'
             }
         }
     }

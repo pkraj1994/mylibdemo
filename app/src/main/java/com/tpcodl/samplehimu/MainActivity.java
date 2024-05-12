@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        MyLibrary.openWebView(MainActivity.this);
+        MyLibrary.openWebView(MainActivity.this,"80000002735");
     }
 }
